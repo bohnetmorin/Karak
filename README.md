@@ -11,7 +11,7 @@
 - Submit findings [using the C4 form](https://code4rena.com/contests/2024-07-karak/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts July 16, 2024 20:00 UTC
-- Ends July 30, 2024 20:00 UTC
+- Ends July 30, 2024 20:00 UTCb  
 
 ## Automated Findings / Publicly Known Issues
 
